@@ -67,11 +67,15 @@ export default {
 					ring: 'hsl(var(--sidebar-ring))'
 				},
 				jcb: {
-					yellow: '#FFCC00',
-					black: '#000000',
+					yellow: '#e7af28',
+					yellowHover: '#eec86a',
+					yellowBg: '#fff3d6',
+					black: '#222221',
 					white: '#FFFFFF',
-					gray: '#333333',
-					lightGray: '#F5F5F5',
+					gray: '#868686',
+					lightGray: '#f5f5f5',
+					strokeGray: '#c2c7d1',
+					green: '#20b038',
 				}
 			},
 			borderRadius: {
