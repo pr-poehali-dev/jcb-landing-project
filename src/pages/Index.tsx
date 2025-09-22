@@ -23,7 +23,7 @@ const Index = () => {
       type: 'Экскаватор-погрузчик',
       power: '74 л.с.',
       description: 'Универсальная машина для земляных работ, погрузки и разгрузки материалов',
-      image: '/img/a2fa7e6c-5aa4-4872-b63a-b5c8c30c3193.jpg',
+      image: '/img/9e1ebabd-c4cb-4146-ac62-18aa16eba488.jpg',
       features: ['Полноповоротный экскаватор', 'Фронтальный погрузчик', 'Компактные размеры'],
       price: 'от 4 500 000 ₽'
     },
@@ -33,7 +33,7 @@ const Index = () => {
       type: 'Гусеничный экскаватор',
       power: '170 л.с.',
       description: 'Мощный экскаватор для тяжелых земляных работ и строительных проектов',
-      image: '/img/b0a4472e-66e9-4043-87b0-c08bb05b2677.jpg',
+      image: '/img/fe9a952f-8101-44b3-8479-f5aaf58a8a2b.jpg',
       features: ['Высокая производительность', 'Точность управления', 'Надежность'],
       price: 'от 7 200 000 ₽'
     },
@@ -43,7 +43,7 @@ const Index = () => {
       type: 'Мини-экскаватор',
       power: '24 л.с.',
       description: 'Компактный экскаватор для работы в ограниченном пространстве',
-      image: '/img/4f5cfd3f-e23c-4bd9-96a0-4edc4baf5b78.jpg',
+      image: '/img/e6d43460-a2fe-4e74-8fad-c7ba3b0dec97.jpg',
       features: ['Маневренность', 'Экономичность', 'Универсальность'],
       price: 'от 2 800 000 ₽'
     }
@@ -213,7 +213,7 @@ const Index = () => {
             
             <div className="relative">
               <img 
-                src="/img/a2fa7e6c-5aa4-4872-b63a-b5c8c30c3193.jpg" 
+                src="/img/9e1ebabd-c4cb-4146-ac62-18aa16eba488.jpg" 
                 alt="JCB Excavator" 
                 className="w-full h-auto rounded-xl shadow-2xl"
               />
